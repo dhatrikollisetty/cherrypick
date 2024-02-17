@@ -3,4 +3,7 @@ public class ObjectRefference {
         return "demo";
     }
 
+    public String cherripickDemo(){
+        return "cherrypickDemo";
+    }
 }
